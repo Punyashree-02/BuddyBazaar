@@ -25,5 +25,5 @@
 ![Logout] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/LOGOUT.jpg)
 
 ## VideoImplementation
-![Video] 
+![Video] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/Video%20implementation.mp4)
 
