@@ -24,3 +24,6 @@
 ![Profile] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/PROFILEWHITE.jpg)
 ![Logout] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/LOGOUT.jpg)
 
+## VideoImplementation
+![Video] 
+
