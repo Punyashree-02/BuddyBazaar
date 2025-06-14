@@ -15,6 +15,7 @@
 - 🚪 Logout functionality
 
 ## 📱 Screenshots
+![Home] (https://raw.githubusercontent.com/Punyashree-02/BuddyBazaar/refs/heads/main/assets/LOGINPAGE.jpg)
 
 
 
