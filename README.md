@@ -14,15 +14,15 @@
 - 🚪 Logout functionality
 
 ## 📱 Screenshots
-![Login] (https://raw.githubusercontent.com/Punyashree-02/BuddyBazaar/refs/heads/main/assets/LOGINPAGE.jpg)
-![Signup] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/SIGNUPPAGE.jpg)
-![Home] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/HOMEPAGE.jpg)
-![ProductDetail] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/PRODUCTDETAIL.jpg)
-![CartPage] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/CARTPAGE.jpg)
-![AddCart] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/ADDTOCART.jpg)
-![RemoveCart] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/REMOVECART.jpg)
-![Profile] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/PROFILEWHITE.jpg)
-![Logout] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/LOGOUT.jpg)
+-![Login] (https://raw.githubusercontent.com/Punyashree-02/BuddyBazaar/refs/heads/main/assets/LOGINPAGE.jpg)
+-![Signup] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/SIGNUPPAGE.jpg)
+-![Home] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/HOMEPAGE.jpg)
+-![ProductDetail] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/PRODUCTDETAIL.jpg)
+-![CartPage] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/CARTPAGE.jpg)
+-![AddCart] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/ADDTOCART.jpg)
+-![RemoveCart] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/REMOVECART.jpg)
+-![Profile] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/PROFILEWHITE.jpg)
+-![Logout] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/LOGOUT.jpg)
 
 ## VideoImplementation
 ![Video] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/Video%20implementation.mp4)
